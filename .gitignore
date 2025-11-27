@@ -1,0 +1,4 @@
+yolov8x.pt
+*.pt
+runs/
+__pycache__/
